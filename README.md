@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Midhun 👋
 
-<!--
-**midhun-p24/midhun-p24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student in CSU Fresno. I enjoy solving complex problems and trying to think of diffeerent ways to approach it, I also try building applications that can be really useful, and I love working on games.
 
-Here are some ideas to get you started:
+**🔭 I’m currently working on:**
+- Knight's Descent (A top down dungeon crawler game on Unity)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🌱 I’m currently learning:**
+- Machine Learning, Convolutional Neural Networks 
+
+**✨ A project I'm proud of:**
+- USDA-2024 Mask RCNN.
+
+**📫 How to reach me:**
+- **LinkedIn:** https://www.linkedin.com/in/midhun-puthiyelath-142b652b3
+- **Email:** midhunputhiyelath@gmail.com
+
+---
